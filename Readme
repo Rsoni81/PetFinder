@@ -24,7 +24,7 @@ Dewormed - Pet has been dewormed (1 = Yes, 2 = No, 3 = Not Sure)
 Sterilized - Pet has been spayed / neutered (1 = Yes, 2 = No, 3 = Not Sure)
 Health - Health Condition (1 = Healthy, 2 = Minor Injury, 3 = Serious Injury, 0 = Not Specified)
 Quantity - Number of pets represented in profile
-Fee - Adoption fee (0 = Free)
+Fee - Adoption fee ()
 State - State location in Malaysia (Refer to StateLabels dictionary)
 RescuerID - Unique hash ID of rescuer
 VideoAmt - Total uploaded videos for this pet
